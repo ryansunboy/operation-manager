@@ -1,6 +1,6 @@
 package com.hundsun.operation.manager.mapper;
 
-import com.hundsun.platform.model.Users;
+import com.hundsun.operation.manager.model.Users;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;

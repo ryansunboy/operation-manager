@@ -1,8 +1,8 @@
 package com.hundsun.operation.manager.service.impl;
 
-import com.hundsun.platform.service.FileCompareService;
-import com.hundsun.platform.service.biz.FileThreadFactory;
-import com.hundsun.platform.service.biz.Task;
+import com.hundsun.operation.manager.service.FileCompareService;
+import com.hundsun.operation.manager.service.biz.FileThreadFactory;
+import com.hundsun.operation.manager.service.biz.Task;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,5 @@
 package com.hundsun.operation.manager.utils;
 
-import com.hundsun.platform.config.CommonConfig;
 import org.apache.tomcat.util.codec.binary.Base64;
 import org.springframework.beans.factory.annotation.Autowired;
 

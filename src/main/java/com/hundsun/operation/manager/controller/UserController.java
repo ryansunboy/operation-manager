@@ -1,7 +1,7 @@
 package com.hundsun.operation.manager.controller;
 
-import com.hundsun.platform.mapper.UserMapper;
-import com.hundsun.platform.model.Users;
+import com.hundsun.operation.manager.mapper.UserMapper;
+import com.hundsun.operation.manager.model.Users;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

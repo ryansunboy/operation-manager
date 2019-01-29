@@ -1,11 +1,11 @@
 package com.hundsun.operation.manager.service.impl;
 
-import com.hundsun.platform.config.CommonConfig;
-import com.hundsun.platform.constant.Constants;
-import com.hundsun.platform.model.DataSourceReq;
-import com.hundsun.platform.model.DataSourceRes;
-import com.hundsun.platform.service.DataSourceParseService;
-import com.hundsun.platform.utils.DeEnUtils;
+import com.hundsun.operation.manager.config.CommonConfig;
+import com.hundsun.operation.manager.constant.Constants;
+import com.hundsun.operation.manager.model.DataSourceReq;
+import com.hundsun.operation.manager.model.DataSourceRes;
+import com.hundsun.operation.manager.service.DataSourceParseService;
+import com.hundsun.operation.manager.utils.DeEnUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

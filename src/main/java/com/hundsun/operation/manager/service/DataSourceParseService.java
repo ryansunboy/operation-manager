@@ -1,7 +1,7 @@
 package com.hundsun.operation.manager.service;
 
-import com.hundsun.platform.model.DataSourceReq;
-import com.hundsun.platform.model.DataSourceRes;
+import com.hundsun.operation.manager.model.DataSourceReq;
+import com.hundsun.operation.manager.model.DataSourceRes;
 
 import java.util.List;
 

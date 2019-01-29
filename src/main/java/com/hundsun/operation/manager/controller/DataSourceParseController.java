@@ -1,8 +1,8 @@
 package com.hundsun.operation.manager.controller;
 
-import com.hundsun.platform.model.DataSourceReq;
-import com.hundsun.platform.model.DataSourceRes;
-import com.hundsun.platform.service.DataSourceParseService;
+import com.hundsun.operation.manager.model.DataSourceReq;
+import com.hundsun.operation.manager.model.DataSourceRes;
+import com.hundsun.operation.manager.service.DataSourceParseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
